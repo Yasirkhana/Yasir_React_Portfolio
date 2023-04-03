@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Yasir_React_Portfolio/static/css/main.e140710d.css",
+    "main.js": "/Yasir_React_Portfolio/static/js/main.8df90575.js",
+    "static/media/HeaderGif.gif": "/Yasir_React_Portfolio/static/media/HeaderGif.3d34a570ec7d3100bed7.gif",
+    "static/media/DataScraping.png": "/Yasir_React_Portfolio/static/media/DataScraping.5c84508e813a604a5f88.png",
+    "static/media/skills.jpg": "/Yasir_React_Portfolio/static/media/skills.e8ac5afbad88f416ea15.jpg",
+    "static/media/REACTJS PORTFOLIO.png": "/Yasir_React_Portfolio/static/media/REACTJS PORTFOLIO.22ea043957ec2e5db339.png",
+    "static/media/StudentGradePrediction.png": "/Yasir_React_Portfolio/static/media/StudentGradePrediction.749316f191c8f20c08b6.png",
+    "static/media/OldPortfolio.png": "/Yasir_React_Portfolio/static/media/OldPortfolio.d7eddc17ce07ccb7ea19.png",
+    "static/media/FootballDataAnalysis.png": "/Yasir_React_Portfolio/static/media/FootballDataAnalysis.a25e3ae3321e728a5dea.png",
+    "static/media/GoogleKeepClone.png": "/Yasir_React_Portfolio/static/media/GoogleKeepClone.ee5fa95d763940f63893.png",
+    "static/media/header.jpg": "/Yasir_React_Portfolio/static/media/header.0d839a5acbd31eddfd9b.jpg",
+    "static/media/TODO List App.png": "/Yasir_React_Portfolio/static/media/TODO List App.3bd5809a22c4d8cfa976.png",
+    "static/media/front.jpg": "/Yasir_React_Portfolio/static/media/front.d0e265ba6e6c6d930494.jpg",
+    "static/media/FaceDetection.png": "/Yasir_React_Portfolio/static/media/FaceDetection.d149f63d27816106548c.png",
+    "static/media/me.jpg": "/Yasir_React_Portfolio/static/media/me.8b2eca4c07eedf4f7cb5.jpg",
+    "static/media/react.jpg": "/Yasir_React_Portfolio/static/media/react.e5a519f02280367aa812.jpg",
+    "static/media/github.JPG": "/Yasir_React_Portfolio/static/media/github.38bac5cd695044432ab7.JPG",
+    "index.html": "/Yasir_React_Portfolio/index.html",
+    "main.e140710d.css.map": "/Yasir_React_Portfolio/static/css/main.e140710d.css.map",
+    "main.8df90575.js.map": "/Yasir_React_Portfolio/static/js/main.8df90575.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e140710d.css",
+    "static/js/main.8df90575.js"
+  ]
+}
